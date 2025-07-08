@@ -1,4 +1,4 @@
 nginx
 python:alpine3.19
-java
+jdk:latest
 alpine
